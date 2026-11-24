@@ -24,3 +24,5 @@ V2：强制为背景时间。
 V3：添加进度条
 <img width="1366" height="656" alt="image" src="https://github.com/user-attachments/assets/38344f68-3a1c-43e4-bee5-195d088b06c4" />
 
+授权协议：MIT
+
