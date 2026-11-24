@@ -17,10 +17,9 @@
 2. 选择要压缩的文件或文件夹
 3. 拖拽到 `auto_zip.py` 文件上
 4. 自动生成带时间戳的zip文件
-
+5. 按找文件/文件夹单独打包
 
 ---
 V2：强制为背景时间。
 V3：添加进度条
-
-
+<img width="1366" height="1530" alt="image" src="https://github.com/user-attachments/assets/a1e0f90a-da0f-4d40-b8ff-08b450abebb5" />
